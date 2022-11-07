@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">GuestManagement</string>
+    <string name="txt1">Guest</string>
+    <string name="img1">Image1</string>
+    <string name="txt2">Next</string>
+    <string name="txth1">First name</string>
+    <string name="txth2">Last name</string>
+    <string name="txth3">Contact number</string>
+    <string name="txth4">Email</string>
+    <string name="txt3">Confirmation</string>
+    <string name="radiobutton1">yes</string>
+    <string name="radiobutton2">No</string>
+    <string name="txth5">Notes</string>
+    <string name="button">Edit</string>
+    <string name="txt4">Edit Guest</string>
+    <string name="txt5">New Guest</string>
+    <string name="button2">Submit</string>
+    <string name="txt6">Remove Guest</string>
+    <string name="button3">Remove</string>
+    <string name="navbar1">Home</string>
+    <string name="navbar2">Guest</string>
+    <string name="navbar3">Food</string>
+    <string name="navbar4">Venue</string>
+    <string name="navbar5">Check Out</string>
+    <string name="txt5a">Guest List</string>
+    <string name="txt12">Update Guest</string>
+</resource
